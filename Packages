@@ -1,0 +1,68 @@
+Package: com.cdgod.linehack
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: CDGod
+Installed-Size: 456
+Depends: mobilesubstrate
+Filename: debs/com.cdgod.linehack_0.0.7.deb
+Size: 25578
+MD5sum: 4e0451973eec6d86840f4c2b6aa9ac01
+SHA1: fa53f3f08005fc908938c754a98247f2fc7a65e8
+SHA256: 6c1a85195fb190407dd250d28e9714dda59f39d461a0f9e9dba66c24e17ef1d3
+Section: Tweaks
+Description: Line Hack!
+Author: CDGod
+Name: linehack
+
+Package: com.chikuwa.nolinethemecheck
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Chikuwa
+Installed-Size: 101
+Depends: mobilesubstrate
+Filename: debs/nolinethemecheck_0.0.1.deb
+Size: 3314
+MD5sum: 1c2e7311b3b351454f91562eb0b2e077
+SHA1: 7d0cff791eb6ba79163af2745b8965e69f7d5f81
+SHA256: a924b887a530ea883c37b7183c59988074411c3f1cca6a7827af52ff0991da6b
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Chikuwa
+Name: NoLINEThemeCheck
+
+Package: tw.hiraku.linechinesefont
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Hiraku <dev@hiraku.tw>
+Depends: mobilesubstrate
+Conflicts: tw.lulu.linelihei7
+Filename: debs/tw.hiraku.linechinesefont_1.0.1_iphoneos-arm.deb
+Size: 3484
+MD5sum: efb3edcf93abe08573c2da93a0fa758b
+SHA1: a589f10d7b363a469584b54891f2a9e706c76bf7
+SHA256: e744b9ac1b341ad4864d86ff41e07f6661da9a3b7406b99970b27ac6f12123ac
+Section: Tweaks
+Priority: optional
+Description: 讓 LINE 預設字體改為中文字體
+Author: Hiraku <dev@hiraku.tw>
+Depiction: 讓 LINE 的預設字體改為中文字體（原本預設為日文字體）
+Icon: file:///Applications/Cydia.app/Sources/iphone4.tw.png
+Name: LINE Chinese Font
+
+Package: tw.hiraku.linethememanager
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: Hiraku <dev@hiraku.tw>
+Depends: firmware (>= 5.0)
+Filename: debs/tw.hiraku.linethememanager_1.0.3-1_iphoneos-arm.deb
+Size: 328190
+MD5sum: b3f68f2f9f6ff5a643e658ede3717998
+SHA1: bfb336af76ede2624f698799417ae0c91ef44321
+SHA256: 995dbacba66b101c2c3b8235a0a2633c45e1b97267aa260922d7891e87248095
+Section: Utilities
+Priority: optional
+Description: A tool to manage LINE themes and apply them.
+Author: Hiraku <dev@hiraku.tw>
+Depiction: A tool to manage LINE themes and apply them.
+Name: LINE Theme Manager (我就是要換主題)
+
